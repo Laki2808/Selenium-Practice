@@ -46,7 +46,7 @@ public class TekstBox {
         WebElement submitButton = driver.findElement(By.id("submit"));
 
         String name = "Name3";
-        String email = "mail@mail.com";
+        String email = "mai@mail.com";
         String address1 = "Adresa1";
         String address2 = "Adresa2";
 

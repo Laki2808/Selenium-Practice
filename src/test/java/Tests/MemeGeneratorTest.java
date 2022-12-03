@@ -31,8 +31,8 @@ public class MemeGeneratorTest extends MemeGeneratorBaseTest {
         memeGeneratorHomePage.clickOnUploadNewTemplateButton();
         memeGeneratorHomePage.uploadImageFromYourDevice();
         memeGeneratorHomePage.clickOnUploadButton();
-        memeGeneratorHomePage.inputTopTextField("Rade");
-        memeGeneratorHomePage.inputbottomTextField("Lukovic");
+        memeGeneratorHomePage.inputTopTextField("Rad");
+        memeGeneratorHomePage.inputbottomTextField("Luko");
         memeGeneratorHomePage.creatMemeButton();
     }
 
